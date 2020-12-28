@@ -23,4 +23,6 @@ public class Main {
         plate.addFood(350);
         plate.getValue();
     }
+
+    //useless comment
 }
